@@ -1,0 +1,8 @@
+Amazone-clone
+clone-74fb5.web.app
+
+strip payment modules
+note:- for stripe payment we need to install to dependancy
+npm i @stripe/stripe-js
+npm i @stripe/react-stripe-js
+npm i moment >>> its library to pass time stamps

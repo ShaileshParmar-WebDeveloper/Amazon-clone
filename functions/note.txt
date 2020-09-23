@@ -1,0 +1,10 @@
+Functions folder is backend stufs..
+SRC folder is fron-end stufs.....
+
+intalling:-
+express
+core
+stripe
+
+for firebase:
+"firebase emulators:start" for local envirnomnet
